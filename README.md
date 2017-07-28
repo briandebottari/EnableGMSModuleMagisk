@@ -1,0 +1,2 @@
+# EnableGMSModuleMagisk
+dozegms
