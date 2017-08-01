@@ -27,3 +27,10 @@ Although, in my experience (i use this mod on all of my three devices) my notif 
 The one i noticed had slight delay is GMail. But i check my mail regularly throughout the day, so i need no real time notif for that.
 
 As for all other main services like Accounts, Alarm, Location and elses, i never have any issue with them when i got this module active. GPS work fine, Alarm ringing, Account Syncing normally.
+
+## Support
+Find support on my thread @XDA : https://forum.xda-developers.com/apps/magisk/module-enable-doze-google-play-services-t3608783/post72344542#post72344542
+
+## Copyright
+otonieru@xda-developers may 2017
+If you wish to implement the modification into your ROM, please mention me :)
