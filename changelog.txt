@@ -1,0 +1,8 @@
+v1
+    - First Implementation of Systemless  mod for  enabling Doze on GMS
+v2
+    - versioncode revised
+v3 
+    - Update Template to v3
+v4
+    - Update Template to v4 for Magisk v13
