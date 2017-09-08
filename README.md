@@ -33,6 +33,7 @@ v1. Initial Release
 v2. Template Update
 v3. Code Cleaning
 v4. Template Update for Magisk 13.3
+v5. Template Update for Magisk 14 - PLEASE UPDATE YOUR MAGISK INSTALLATION
 
 ## Support
 Find support on my thread @XDA : https://forum.xda-developers.com/apps/magisk/module-enable-doze-google-play-services-t3608783/post72344542#post72344542
