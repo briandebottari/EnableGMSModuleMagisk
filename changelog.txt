@@ -7,4 +7,6 @@ v3
 v4
     - Update Template to v4 for Magisk v13
 v5
-	- Update Template to v1400 for Magisk v14 - PLEASE UPDATE YOUR MAGISK VERSION
+    - Update Template to v1400 for Magisk v14 - PLEASE UPDATE YOUR MAGISK VERSION
+v6
+    - Update Template to v1500 for Magisk v15 & Adding OREO Support - PLEASE UPDATE YOUR MAGISK VERSION
