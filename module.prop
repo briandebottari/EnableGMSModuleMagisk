@@ -4,4 +4,4 @@ version=v6
 versionCode=6
 author=otonieru @ xda-developers
 description=Enable Dozing for Google Play Services without tampering with System
-template=1500
+minMagisk=1500
