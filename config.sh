@@ -42,7 +42,7 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "Enable Doze for GMS Magisk Module v5 by otonieru"
+  ui_print "Enable Doze for GMS Magisk Module v6 by otonieru"
   ui_print "*******************************"
 }
 
