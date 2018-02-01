@@ -1,7 +1,7 @@
 id=dozegms
 name=Enable Doze for GMS Magisk Module
-version=v5
-versionCode=5
+version=v6
+versionCode=6
 author=otonieru @ xda-developers
 description=Enable Dozing for Google Play Services without tampering with System
-template=1400
+template=1500
