@@ -29,16 +29,16 @@ The one i noticed had slight delay is GMail. But i check my mail regularly throu
 As for all other main services like Accounts, Alarm, Location and elses, i never have any issue with them when i got this module active. GPS work fine, Alarm ringing, Account Syncing normally.
 
 ## CHANGELOG
-v1. Initial Release
-v2. Template Update
-v3. Code Cleaning
-v4. Template Update for Magisk 13.3
-v5. Template Update for Magisk 14 - PLEASE UPDATE YOUR MAGISK INSTALLATION
-v6. Template Update for MAgisk 15 & Adding OREO Support
+### v1. Initial Release
+### v2. Template Update
+### v3. Code Cleaning
+### v4. Template Update for Magisk 13.3
+### v5. Template Update for Magisk 14 - PLEASE UPDATE YOUR MAGISK INSTALLATION
+### v6. Template Update for MAgisk 15 & Adding OREO Support
 
 ## Support
-Find support on my thread @XDA : https://forum.xda-developers.com/apps/magisk/module-enable-doze-google-play-services-t3608783/post72344542#post72344542
+Find support on my thread @XDA : [Here](https://forum.xda-developers.com/apps/magisk/module-enable-doze-google-play-services-t3608783/post72344542#post72344542)
 
 ## Copyright
-otonieru@xda-developers may 2017
+otonieru@xda-developers - 2018
 If you wish to implement the modification into your ROM, please mention me :)
