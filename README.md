@@ -15,6 +15,8 @@ This is WHAT THIS MODULE DO - SYSTEMLESSLY (obviously)
 
 By installing this module, you can move Google Play Services from the "App Not Optimised" list to "App Optimised" which mean DOZE mechanism will work its magic on Google Play Services, thus should saving you more juices/batt throughout the day.
 
+OOS (OnePlus) user with Nougat version and above installed wont find this option anymore. Instead, they should go to "Google Play Services" App Info from setting, choose the battery option, and scroll down to "Battery Optimisation" to check the status
+
 ## The Side Effect/ Note
 Saving energy never come without side effect. Same goes with this method.
 
@@ -34,7 +36,7 @@ As for all other main services like Accounts, Alarm, Location and elses, i never
 ### v3. Code Cleaning
 ### v4. Template Update for Magisk 13.3
 ### v5. Template Update for Magisk 14 - PLEASE UPDATE YOUR MAGISK INSTALLATION
-### v6. Template Update for MAgisk 15 & Adding OREO Support
+### v6. Template Update for Magisk 15 & Adding OREO Support
 
 ## Support
 Find support on my thread @XDA : [Here](https://forum.xda-developers.com/apps/magisk/module-enable-doze-google-play-services-t3608783/post72344542#post72344542)
